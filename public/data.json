@@ -1,0 +1,2618 @@
+[
+    {
+        "id": "cebf79ac-effb-40c1-9a5b-9ad67c0dc2be",
+        "slug": "story-1779257282541",
+        "title": "The Fargone Temple",
+        "subtitle": "",
+        "coverImage": "/src/assets/1779257290878-fargone-doEZWzbhYzc-unsplash.jpg",
+        "author": "",
+        "date": "May 2026",
+        "readTime": "5 min read",
+        "status": "published",
+        "images": [
+            "/src/assets/1779257295681-fargone-doEZWzbhYzc-unsplash.jpg"
+        ],
+        "states": [
+            {
+                "id": "4e2e62b7-e810-477a-85fe-2e712ff765f6",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.3,
+                    "x": -11.48,
+                    "y": -11.48
+                },
+                "overlays": []
+            },
+            {
+                "id": "573ec152-7e7d-4989-a5d6-faebc270e4d6",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.03,
+                    "x": -25.41,
+                    "y": 25.41
+                },
+                "overlays": []
+            },
+            {
+                "id": "0462fc5c-f042-4a7a-94f7-ec25292e59d2",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.91,
+                    "x": -2.75,
+                    "y": 22.72
+                },
+                "overlays": []
+            },
+            {
+                "id": "6baca1df-e4ea-4930-bef8-3e64430309d4",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.92,
+                    "x": 7.92,
+                    "y": -3.16
+                },
+                "overlays": []
+            },
+            {
+                "id": "9df9f176-b4db-4dfa-9fb0-bdcee53da148",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.64,
+                    "x": 15.92,
+                    "y": -17.04
+                },
+                "overlays": []
+            },
+            {
+                "id": "a1191772-192b-4f75-92ee-26107e28f7bd",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.75,
+                    "x": 21.36,
+                    "y": 20.95
+                },
+                "overlays": []
+            },
+            {
+                "id": "a6d1bebc-755f-4e68-a1a5-b22246ad50e3",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.66,
+                    "x": -1.15,
+                    "y": 19.88
+                },
+                "overlays": []
+            },
+            {
+                "id": "709ab1d9-86e3-49ef-9219-a108125e4150",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": []
+            }
+        ],
+        "paragraphs": [
+            {
+                "id": "87b419cc-9533-4810-b446-9612d1df71e4",
+                "text": "<b>Beautiful Temple Architecture</b><br>The image shows a grand South Indian temple tower with highly detailed carvings and traditional.",
+                "stateId": "4e2e62b7-e810-477a-85fe-2e712ff765f6",
+                "textStyle": {
+                    "backgroundColor": "rgba(185,109,4,0.8)"
+                },
+                "textPosition": {
+                    "topPercent": 30
+                }
+            },
+            {
+                "id": "921c9c87-6d9e-4727-bc6b-b23551ca4923",
+                "text": "<span data-start=\"150\" data-end=\"178\" data-is-only-node=\"\"><b>Intricate Stone Carvings</b></span><br data-start=\"178\" data-end=\"181\">\nEvery layer of the structure is decorated with sculptures, patterns, and artistic stone work.",
+                "stateId": "573ec152-7e7d-4989-a5d6-faebc270e4d6",
+                "textStyle": {
+                    "backgroundColor": "rgba(185,109,4,0.4)"
+                },
+                "textPosition": {
+                    "topPercent": 26
+                }
+            },
+            {
+                "id": "4d08ff88-c82a-472d-ad15-4477103832f8",
+                "text": "<strong data-start=\"282\" data-end=\"308\" data-is-only-node=\"\">Tall Gopuram Structure</strong><br data-start=\"308\" data-end=\"311\">\nThe temple entrance tower, called a gopuram, rises high into the sky and looks majestic.",
+                "stateId": "0462fc5c-f042-4a7a-94f7-ec25292e59d2",
+                "textStyle": {
+                    "backgroundColor": "rgba(185,109,4,0.8)"
+                },
+                "textPosition": {
+                    "topPercent": 30
+                }
+            },
+            {
+                "id": "3e2460bf-3dec-44aa-8827-b045dc485509",
+                "text": "<strong data-start=\"407\" data-end=\"436\" data-is-only-node=\"\">Ancient Historical Design</strong><br data-start=\"436\" data-end=\"439\">\nThe lower dark stone section gives the temple an ancient and historical appearance.",
+                "stateId": "6baca1df-e4ea-4930-bef8-3e64430309d4",
+                "textPosition": {
+                    "topPercent": 12
+                },
+                "textStyle": {
+                    "backgroundColor": "rgba(185,109,4,0.8)"
+                }
+            },
+            {
+                "id": "04a8cdb4-78cb-41c1-811f-08fdaf32d2b8",
+                "text": "<li data-section-id=\"14cb6it\" data-start=\"527\" data-end=\"645\"><strong data-start=\"530\" data-end=\"556\" data-is-only-node=\"\">Religious Significance</strong><br data-start=\"556\" data-end=\"559\">\nTemples like this are important spiritual and cultural centers in Indian tradition.\n</li>\n<li data-section-id=\"9qskdc\" data-start=\"647\" data-end=\"780\">\n<strong data-start=\"650\" data-end=\"684\" data-is-only-node=\"\">Cream and Brown Color Contrast</strong><span data-start=\"530\" data-end=\"556\" data-is-only-node=\"\" style=\"--tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; border-color: rgb(36, 39, 46); font-weight: bolder; color: rgb(232, 231, 227); font-size: 14.4px;\">Religious Significance</span><br data-start=\"556\" data-end=\"559\" style=\"--tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; border-color: rgb(36, 39, 46); color: rgb(232, 231, 227); font-size: 14.4px;\"><span style=\"color: rgb(232, 231, 227); font-size: 14.4px;\">Temples like this are important spiritual and cultural centers in Indian tradition.</span></li>",
+                "stateId": "9df9f176-b4db-4dfa-9fb0-bdcee53da148",
+                "textStyle": {
+                    "backgroundColor": "rgba(185,109,4,0.8)"
+                },
+                "textPosition": {
+                    "topPercent": 43
+                }
+            },
+            {
+                "id": "464b5605-1910-4436-ad39-be594551c2f0",
+                "text": "<strong data-start=\"650\" data-end=\"684\" data-is-only-node=\"\">Cream and Brown Color Contrast</strong><br data-start=\"684\" data-end=\"687\">\nThe light-colored upper structure and darker stone base create a striking visual contrast.",
+                "stateId": "a1191772-192b-4f75-92ee-26107e28f7bd",
+                "textStyle": {
+                    "backgroundColor": "rgba(185,109,4,0.8)"
+                },
+                "textPosition": {
+                    "topPercent": 56
+                }
+            },
+            {
+                "id": "012ff70b-a4bc-45ad-b97c-9822459fec03",
+                "text": "<strong data-start=\"785\" data-end=\"816\" data-is-only-node=\"\">Traditional Dravidian Style</strong><br data-start=\"816\" data-end=\"819\">\nThe architecture represents classic Dravidian temple style commonly found in South India.",
+                "stateId": "a6d1bebc-755f-4e68-a1a5-b22246ad50e3",
+                "textStyle": {
+                    "backgroundColor": "rgba(185,109,4,0.8)"
+                },
+                "textPosition": {
+                    "topPercent": 16
+                }
+            },
+            {
+                "id": "4f40a336-c2bb-46f4-a36c-651673e3aa56",
+                "text": "<strong data-start=\"916\" data-end=\"940\" data-is-only-node=\"\">Peaceful Environment</strong><br data-start=\"940\" data-end=\"943\">\nThe clear sky, greenery, and calm surroundings add a peaceful and sacred atmosphere to the scene.",
+                "stateId": "709ab1d9-86e3-49ef-9219-a108125e4150",
+                "textStyle": {
+                    "backgroundColor": "rgba(185,109,4,0.8)"
+                },
+                "textPosition": {
+                    "topPercent": 57
+                }
+            }
+        ]
+    },
+    {
+        "id": "9453fd28-8bca-421e-aa86-eaebf30b43b6",
+        "slug": "story-1779450470904",
+        "title": "Edward Burne-Jones.",
+        "subtitle": "In the painting",
+        "coverImage": "/src/assets/1779450475357-birmingham-museums-trust-mWsReJ7bWHQ-unsplash.jpg",
+        "author": "",
+        "date": "May 2026",
+        "readTime": "5 min read",
+        "status": "published",
+        "images": [
+            "/src/assets/1779450479659-birmingham-museums-trust-mWsReJ7bWHQ-unsplash.jpg"
+        ],
+        "states": [
+            {
+                "id": "7c2a93aa-c8fc-4be9-ab4d-8b1271c98353",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.63,
+                    "x": -3.92,
+                    "y": -18.79
+                },
+                "overlays": []
+            },
+            {
+                "id": "d2ba569f-5139-4473-8f1e-b20cbf497d7c",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.92,
+                    "x": 23.02,
+                    "y": 4.21
+                },
+                "overlays": []
+            },
+            {
+                "id": "1573cf08-ed49-4dc0-afba-a4420f890300",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.82,
+                    "x": 3,
+                    "y": 22.55
+                },
+                "overlays": []
+            },
+            {
+                "id": "15fdfb45-12fa-4796-a996-8a5ccfb2ac70",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.79,
+                    "x": -21.72,
+                    "y": 16.63
+                },
+                "overlays": []
+            },
+            {
+                "id": "b72ee9b7-9eee-4520-aeac-ec0d7f445de4",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.2,
+                    "x": -26.73,
+                    "y": -27.24
+                },
+                "overlays": []
+            },
+            {
+                "id": "08e7643e-4008-4eab-892d-1b1baea8cc11",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.8,
+                    "x": 6.63,
+                    "y": -12.11
+                },
+                "overlays": []
+            },
+            {
+                "id": "456e7cae-15b1-4098-94a0-25b6fa5c68ab",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.63,
+                    "x": -3.39,
+                    "y": 19.39
+                },
+                "overlays": []
+            },
+            {
+                "id": "cb042fa2-fba0-4466-869c-1e38dcc224ce",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": []
+            }
+        ],
+        "paragraphs": [
+            {
+                "id": "2e35faac-8e47-4c82-844b-48f3347c11f3",
+                "text": "<strong data-start=\"147\" data-end=\"175\">Pre-Raphaelite Art Style</strong><br data-start=\"175\" data-end=\"178\">\nThe painting belongs to the Pre-Raphaelite movement, known for rich colors, detail, and medieval-inspired themes.",
+                "stateId": "7c2a93aa-c8fc-4be9-ab4d-8b1271c98353",
+                "textStyle": {
+                    "backgroundColor": "rgba(116,18,7,0.8)"
+                }
+            },
+            {
+                "id": "d5901c96-269f-4c24-be9b-fe753cee2480",
+                "text": "<strong data-start=\"299\" data-end=\"324\">Central Female Figure</strong><br data-start=\"324\" data-end=\"327\">\nA mysterious woman appears to be performing magic or casting a spell, creating a dramatic atmosphere.",
+                "stateId": "d2ba569f-5139-4473-8f1e-b20cbf497d7c",
+                "textStyle": {
+                    "backgroundColor": "rgba(116,18,7,0.8)"
+                }
+            },
+            {
+                "id": "eddc6086-09b9-4e9b-93a8-7b6abfd2224f",
+                "text": "<strong data-start=\"436\" data-end=\"457\">Symbolic Clothing</strong><br data-start=\"457\" data-end=\"460\">\nHer colorful robes and animal fur clothing symbolize power, mysticism, and ancient ritual traditions.",
+                "stateId": "1573cf08-ed49-4dc0-afba-a4420f890300",
+                "textStyle": {
+                    "backgroundColor": "rgba(116,18,7,0.8)"
+                }
+            },
+            {
+                "id": "2596d73b-eded-423b-b811-5ca224125f1d",
+                "text": "<strong data-start=\"569\" data-end=\"589\">Magical Elements</strong><br data-start=\"589\" data-end=\"592\">\nThe painting includes mystical objects like incense, books, symbols, and ceremonial items.",
+                "stateId": "15fdfb45-12fa-4796-a996-8a5ccfb2ac70",
+                "textStyle": {
+                    "backgroundColor": "rgba(116,18,7,0.8)"
+                }
+            },
+            {
+                "id": "323b0bdd-99bc-44ff-9eb2-0d2707e54c30",
+                "text": "<strong data-start=\"690\" data-end=\"713\">Detailed Background</strong><br data-start=\"713\" data-end=\"716\">\nIntricate patterns and dark decorative elements in the background add depth and mystery.",
+                "stateId": "b72ee9b7-9eee-4520-aeac-ec0d7f445de4",
+                "textStyle": {
+                    "backgroundColor": "rgba(116,18,7,0.8)"
+                }
+            },
+            {
+                "id": "cc20bda4-2717-4e41-ba84-a2ba1877cf38",
+                "text": "<strong data-start=\"812\" data-end=\"843\">Strong Emotional Expression</strong><br data-start=\"843\" data-end=\"846\">\nThe woman’s pose and facial expression suggest concentration, passion, or enchantment.",
+                "stateId": "08e7643e-4008-4eab-892d-1b1baea8cc11",
+                "textStyle": {
+                    "backgroundColor": "rgba(116,18,7,0.8)"
+                }
+            },
+            {
+                "id": "cb19f9ae-c5af-4806-aa44-5690aac113c4",
+                "text": "<strong data-start=\"940\" data-end=\"966\">Warm and Earthy Colors</strong><br data-start=\"966\" data-end=\"969\">\nGolden, green, red, and brown tones create a rich and antique visual appearance.",
+                "stateId": "456e7cae-15b1-4098-94a0-25b6fa5c68ab",
+                "textStyle": {
+                    "backgroundColor": "rgba(116,18,7,0.8)"
+                }
+            },
+            {
+                "id": "a1ff07ad-7dde-4d09-866c-e3094c64891f",
+                "text": "<strong data-start=\"1057\" data-end=\"1088\">Fantasy and Mythology Theme</strong><br data-start=\"1088\" data-end=\"1091\">\nThe artwork blends fantasy, mythology, and medieval storytelling into a dramatic scene.",
+                "stateId": "cb042fa2-fba0-4466-869c-1e38dcc224ce",
+                "textStyle": {
+                    "backgroundColor": "rgba(116,18,7,0.8)"
+                }
+            }
+        ]
+    },
+    {
+        "id": "b71983d5-b8f0-40ff-8b33-edd254808841",
+        "slug": "story-1779447534659",
+        "title": "Nature’s Hidden Paradise",
+        "subtitle": "In River of Tranquility",
+        "coverImage": "/src/assets/1779447653691-engin-akyurt-rH-1znS1Hdk-unsplash.jpg",
+        "author": "",
+        "date": "May 2026",
+        "readTime": "5 min read",
+        "status": "published",
+        "images": [
+            "/src/assets/1779447658244-engin-akyurt-rH-1znS1Hdk-unsplash.jpg"
+        ],
+        "states": [
+            {
+                "id": "02460443-e568-401c-91cc-5248295ebdff",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.89,
+                    "x": 23.48,
+                    "y": -23.47
+                },
+                "overlays": []
+            },
+            {
+                "id": "7394e0f1-b817-4b09-bb4e-162a9ab8fa29",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.76,
+                    "x": 12.24,
+                    "y": 12.07
+                },
+                "overlays": []
+            },
+            {
+                "id": "10b83e49-899d-4214-b05f-7b232f90ed7f",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.67,
+                    "x": -20.14,
+                    "y": 20.14
+                },
+                "overlays": []
+            },
+            {
+                "id": "68ae9bb1-c2da-4fdd-a6c3-b1ef9966bdef",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.66,
+                    "x": 3.33,
+                    "y": -19.88
+                },
+                "overlays": []
+            },
+            {
+                "id": "51036a0c-e24b-4c57-9692-ca946b28ead1",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.16,
+                    "x": -25.32,
+                    "y": -1.38
+                },
+                "overlays": []
+            },
+            {
+                "id": "af576914-e90c-4d65-8cd5-fac551eae825",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.28,
+                    "x": -5.7,
+                    "y": 10.94
+                },
+                "overlays": []
+            },
+            {
+                "id": "9a0521da-1a93-4683-bb05-acbc4626cead",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.31,
+                    "x": 0.93,
+                    "y": 18.53
+                },
+                "overlays": []
+            },
+            {
+                "id": "a76c15fb-8bf9-45bf-ab88-d316b3843765",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": []
+            }
+        ],
+        "paragraphs": [
+            {
+                "id": "4b858020-c224-4e25-ae42-2c7a0a866c5e",
+                "text": "<strong data-start=\"3\" data-end=\"34\" data-is-only-node=\"\">Beautiful Natural Waterfall</strong><br data-start=\"34\" data-end=\"37\">\nThe image captures a peaceful flowing waterfall surrounded by rocks and greenery.",
+                "stateId": "02460443-e568-401c-91cc-5248295ebdff",
+                "textStyle": {
+                    "backgroundColor": "rgba(56,116,6,0.8)"
+                }
+            },
+            {
+                "id": "74967a7c-c246-4762-aaca-cfa59f1ef70d",
+                "text": "<strong data-start=\"126\" data-end=\"148\" data-is-only-node=\"\">Large Ancient Tree</strong><br data-start=\"148\" data-end=\"151\">\nA massive tree with wide branches dominates the scene, adding a magical forest atmosphere.",
+                "stateId": "7394e0f1-b817-4b09-bb4e-162a9ab8fa29",
+                "textStyle": {
+                    "backgroundColor": "rgba(56,116,6,0.8)"
+                }
+            },
+            {
+                "id": "05946269-d550-4673-a642-a06c6ebab3da",
+                "text": "<strong data-start=\"249\" data-end=\"273\" data-is-only-node=\"\">Flowing River Stream</strong><br data-start=\"273\" data-end=\"276\">\nSmooth flowing water creates a soft and dreamy visual effect through the forest.",
+                "stateId": "10b83e49-899d-4214-b05f-7b232f90ed7f",
+                "textStyle": {
+                    "backgroundColor": "rgba(56,116,6,0.8)"
+                }
+            },
+            {
+                "id": "f67945c1-a8aa-4885-8fec-ebc2bb44bdb7",
+                "text": "<strong data-start=\"364\" data-end=\"390\" data-is-only-node=\"\">Lush Green Environment</strong><br data-start=\"390\" data-end=\"393\">\nMoss-covered rocks and dense plants make the landscape rich and vibrant.",
+                "stateId": "68ae9bb1-c2da-4fdd-a6c3-b1ef9966bdef",
+                "textStyle": {
+                    "backgroundColor": "rgba(56,116,6,0.8)"
+                }
+            },
+            {
+                "id": "7f724da5-f82f-4ea3-afd1-ed9103f968b3",
+                "text": "<strong data-start=\"473\" data-end=\"497\" data-is-only-node=\"\">Autumn Nature Colors</strong><br data-start=\"497\" data-end=\"500\">\nFallen brown and golden leaves suggest an autumn or early winter season.",
+                "stateId": "51036a0c-e24b-4c57-9692-ca946b28ead1",
+                "textStyle": {
+                    "backgroundColor": "rgba(56,116,6,0.8)"
+                }
+            },
+            {
+                "id": "c2bed4eb-4c2f-4368-ac96-bb23a5f202b3",
+                "text": "<strong data-start=\"580\" data-end=\"607\" data-is-only-node=\"\">Peaceful Forest Setting</strong><br data-start=\"607\" data-end=\"610\">\nThe location appears calm, quiet, and perfect for relaxation or nature exploration",
+                "stateId": "af576914-e90c-4d65-8cd5-fac551eae825",
+                "textStyle": {
+                    "backgroundColor": "rgba(56,116,6,0.8)"
+                }
+            },
+            {
+                "id": "8c674b48-caac-4e57-9efc-3067a7a7828a",
+                "text": "<strong data-start=\"701\" data-end=\"726\" data-is-only-node=\"\">Natural Light and Sky</strong><br data-start=\"726\" data-end=\"729\">\nSoft sunlight and the partly cloudy sky enhance the beauty of the scenery.",
+                "stateId": "9a0521da-1a93-4683-bb05-acbc4626cead",
+                "textStyle": {
+                    "backgroundColor": "rgba(56,116,6,0.8)"
+                }
+            },
+            {
+                "id": "2ea2f83c-1533-49af-9b20-70adf31a260f",
+                "text": "<strong data-start=\"811\" data-end=\"838\" data-is-only-node=\"\">Fantasy-Like Atmosphere</strong><br data-start=\"838\" data-end=\"841\">\nThe combination of water, trees, and glowing colors gives the image a magical fairytale appearance.",
+                "stateId": "a76c15fb-8bf9-45bf-ab88-d316b3843765",
+                "textStyle": {
+                    "backgroundColor": "rgba(56,116,6,0.8)"
+                }
+            }
+        ]
+    },
+      {
+        "id": "2eaf9f6a-b96b-45e7-a1df-cbf79138341a",
+        "slug": "story-1779446503086",
+        "title": "Petronas Towers",
+        "subtitle": "In Kuala Lumpur.",
+        "coverImage": "/src/assets/1779446508078-izuddin-helmi-adnan-1e71PSox7m8-unsplash.jpg",
+        "author": "",
+        "date": "May 2026",
+        "readTime": "5 min read",
+        "status": "published",
+        "images": [
+            "/src/assets/1779446537404-izuddin-helmi-adnan-1e71PSox7m8-unsplash.jpg"
+        ],
+        "states": [
+            {
+                "id": "bf262c51-73cb-4100-aa9c-a41b84150b00",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.97,
+                    "x": -4.16,
+                    "y": 13.74
+                },
+                "overlays": []
+            },
+            {
+                "id": "7e06b98b-f2ef-4aca-887a-fb85af93bfca",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.01,
+                    "x": 24.65,
+                    "y": 25.12
+                },
+                "overlays": []
+            },
+            {
+                "id": "0c232a42-626f-4937-9449-f155911dca44",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.88,
+                    "x": 23.4,
+                    "y": -20.18
+                },
+                "overlays": []
+            },
+            {
+                "id": "7a093f2f-aeae-4fdd-95a4-fc48671e3033",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.51,
+                    "x": -7.4,
+                    "y": -16.37
+                },
+                "overlays": []
+            },
+            {
+                "id": "085a2773-a178-4b39-a34a-b44840ee7a87",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.06,
+                    "x": -25.34,
+                    "y": 13.03
+                },
+                "overlays": []
+            },
+            {
+                "id": "4361e116-f9cc-4d79-a5df-6a416a892643",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.08,
+                    "x": -10.01,
+                    "y": 26
+                },
+                "overlays": []
+            },
+            {
+                "id": "ae1c2520-1aaa-43b0-bc1a-54b4459333bb",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.89,
+                    "x": -23.11,
+                    "y": 23.53
+                },
+                "overlays": []
+            },
+            {
+                "id": "fbf9f1c7-0734-402a-b076-8de3e11f4636",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": []
+            }
+        ],
+        "paragraphs": [
+            {
+                "id": "e44a2c7a-45be-4719-8f50-083835db4479",
+                "text": "<strong data-start=\"3\" data-end=\"25\" data-is-only-node=\"\">Iconic Twin Towers</strong><br data-start=\"25\" data-end=\"28\">\nThe image shows the famous Petronas Twin Towers, one of the tallest twin skyscrapers in the world.",
+                "stateId": "bf262c51-73cb-4100-aa9c-a41b84150b00",
+                "textStyle": {
+                    "backgroundColor": "rgba(0,60,61,0.8)"
+                }
+            },
+            {
+                "id": "199b7fbd-b51e-4d85-82a3-bdc3802deaac",
+                "text": "<strong data-start=\"134\" data-end=\"158\" data-is-only-node=\"\">Night Cityscape View</strong><br data-start=\"158\" data-end=\"161\">\nThe photograph captures Kuala Lumpur beautifully illuminated at night with glowing city lights.",
+                "stateId": "7e06b98b-f2ef-4aca-887a-fb85af93bfca",
+                "textStyle": {
+                    "backgroundColor": "rgba(0,60,61,0.8)"
+                }
+            },
+            {
+                "id": "2a479109-af6b-440d-8dee-b0d03bd49113",
+                "text": "<strong data-start=\"264\" data-end=\"287\" data-is-only-node=\"\">Modern Architecture</strong><br data-start=\"287\" data-end=\"290\">\nThe towers feature advanced modern Islamic-inspired architecture with detailed metallic designs.",
+                "stateId": "0c232a42-626f-4937-9449-f155911dca44",
+                "textStyle": {
+                    "backgroundColor": "rgba(0,60,61,0.8)"
+                }
+            },
+            {
+                "id": "b3027027-e87e-4382-a379-ff94e240c7ec",
+                "text": "<strong data-start=\"394\" data-end=\"418\" data-is-only-node=\"\">Skybridge Connection</strong><br data-start=\"418\" data-end=\"421\">\nA skybridge connects the two towers in the middle, making the structure unique and recognizable.",
+                "stateId": "7a093f2f-aeae-4fdd-95a4-fc48671e3033",
+                "textStyle": {
+                    "backgroundColor": "rgba(0,60,61,0.8)"
+                }
+            },
+            {
+                "id": "e4ecd2d2-c5b9-4413-bcf5-7b5b1b8c9e6b",
+                "text": "<strong data-start=\"525\" data-end=\"547\" data-is-only-node=\"\">Aerial Perspective</strong><br data-start=\"547\" data-end=\"550\">\nThe image is taken from a high aerial viewpoint, giving a dramatic look at the surrounding city.",
+                "stateId": "085a2773-a178-4b39-a34a-b44840ee7a87",
+                "textStyle": {
+                    "backgroundColor": "rgba(0,60,61,0.8)"
+                }
+            },
+            {
+                "id": "17d6d45d-3ccd-4b46-9372-4240e9ee53ca",
+                "text": "<strong data-start=\"654\" data-end=\"680\" data-is-only-node=\"\">Busy Urban Environment</strong><br data-start=\"680\" data-end=\"683\">\nRoads filled with moving traffic and surrounding skyscrapers highlight the city’s active urban life.",
+                "stateId": "4361e116-f9cc-4d79-a5df-6a416a892643",
+                "textStyle": {
+                    "backgroundColor": "rgba(0,60,61,0.8)"
+                }
+            },
+            {
+                "id": "e1030911-7c93-4ecc-a999-6fc6df1aac2d",
+                "text": "<strong data-start=\"791\" data-end=\"819\" data-is-only-node=\"\">Golden Lighting Contrast</strong><br data-start=\"819\" data-end=\"822\">\nWarm golden lights from the towers contrast beautifully with the dark blue night atmosphere.",
+                "stateId": "ae1c2520-1aaa-43b0-bc1a-54b4459333bb",
+                "textStyle": {
+                    "backgroundColor": "rgba(0,60,61,0.8)"
+                }
+            },
+            {
+                "id": "61eeee7f-1d1e-4571-a3d1-074a3136b9fb",
+                "text": "<strong data-start=\"922\" data-end=\"944\" data-is-only-node=\"\">Symbol of Malaysia</strong><br data-start=\"944\" data-end=\"947\">\nThe Petronas Towers are considered a major symbol of Malaysia’s growth, technology, and tourism.",
+                "stateId": "fbf9f1c7-0734-402a-b076-8de3e11f4636",
+                "textStyle": {
+                    "backgroundColor": "rgba(0,60,61,0.8)"
+                }
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "slug": "atlas-of-a-forgotten-city",
+        "title": "The Atlas of a Forgotten City",
+        "subtitle": "Six paintings. One lost civilization. A cinematic journey across faith, commerce, power, ruin, and memory.",
+        "coverImage": "/src/assets/atlas-panorama.jpg",
+        "author": "Chronicle Editorial",
+        "date": "April 2026",
+        "readTime": "18 min read",
+        "featured": true,
+        "status": "published",
+        "images": [
+            "/src/assets/atlas-panorama.jpg",
+            "/src/assets/atlas-cathedral.jpg",
+            "/src/assets/atlas-market.jpg",
+            "/src/assets/atlas-harbor.jpg",
+            "/src/assets/atlas-court.jpg",
+            "/src/assets/atlas-ruins.jpg"
+        ],
+        "states": [
+            {
+                "id": "a1",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": []
+            },
+            {
+                "id": "a2",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.8,
+                    "x": -30,
+                    "y": -12
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "a3",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 3,
+                    "x": -40,
+                    "y": 15
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "a4",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 4.5,
+                    "x": -15,
+                    "y": 25
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "circle",
+                        "x": 0.35,
+                        "y": 0.65,
+                        "width": 0.12,
+                        "height": 0.12,
+                        "opacity": 0.4
+                    }
+                ],
+                "easing": "ease-out"
+            },
+            {
+                "id": "a5",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2,
+                    "x": 30,
+                    "y": 5
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "a6",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 4.8,
+                    "x": 35,
+                    "y": -15
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "rect",
+                        "x": 0.6,
+                        "y": 0.3,
+                        "width": 0.2,
+                        "height": 0.15,
+                        "opacity": 0.3
+                    }
+                ],
+                "easing": "ease-out"
+            },
+            {
+                "id": "a7",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.4,
+                    "x": 0,
+                    "y": -30
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "a8",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "b1",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "b2",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 2,
+                    "x": 0,
+                    "y": -35
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "b3",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 4,
+                    "x": -10,
+                    "y": -45
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "rect",
+                        "x": 0.3,
+                        "y": 0.05,
+                        "width": 0.4,
+                        "height": 0.2,
+                        "opacity": 0.25,
+                        "color": "hsl(45, 80%, 60%)"
+                    }
+                ],
+                "easing": "ease-out"
+            },
+            {
+                "id": "b4",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 2.5,
+                    "x": -35,
+                    "y": -10
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "b5",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 3.5,
+                    "x": 30,
+                    "y": -20
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "b6",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 5,
+                    "x": 0,
+                    "y": 10
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "circle",
+                        "x": 0.5,
+                        "y": 0.55,
+                        "width": 0.15,
+                        "height": 0.15,
+                        "opacity": 0.35
+                    }
+                ],
+                "easing": "ease-out"
+            },
+            {
+                "id": "b7",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 2.5,
+                    "x": 10,
+                    "y": 30
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "b8",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "c1",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "c2",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 2.5,
+                    "x": -35,
+                    "y": 10
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "c3",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 4.5,
+                    "x": -45,
+                    "y": 20
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "rect",
+                        "x": 0.05,
+                        "y": 0.4,
+                        "width": 0.25,
+                        "height": 0.3,
+                        "opacity": 0.3
+                    }
+                ],
+                "easing": "ease-out"
+            },
+            {
+                "id": "c4",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 2,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "c5",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 3.8,
+                    "x": 30,
+                    "y": -10
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "c6",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 5.2,
+                    "x": 40,
+                    "y": 15
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "circle",
+                        "x": 0.8,
+                        "y": 0.6,
+                        "width": 0.1,
+                        "height": 0.1,
+                        "opacity": 0.4
+                    }
+                ],
+                "easing": "ease-out"
+            },
+            {
+                "id": "c7",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 1.5,
+                    "x": 10,
+                    "y": -25
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "c8",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "d1",
+                "imageIndex": 3,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "d2",
+                "imageIndex": 3,
+                "zoom": {
+                    "scale": 2.2,
+                    "x": 0,
+                    "y": -30
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "d3",
+                "imageIndex": 3,
+                "zoom": {
+                    "scale": 4,
+                    "x": -35,
+                    "y": 10
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "d4",
+                "imageIndex": 3,
+                "zoom": {
+                    "scale": 4.8,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "circle",
+                        "x": 0.5,
+                        "y": 0.4,
+                        "width": 0.18,
+                        "height": 0.18,
+                        "opacity": 0.25
+                    }
+                ],
+                "easing": "ease-out"
+            },
+            {
+                "id": "d5",
+                "imageIndex": 3,
+                "zoom": {
+                    "scale": 3,
+                    "x": 35,
+                    "y": 15
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "d6",
+                "imageIndex": 3,
+                "zoom": {
+                    "scale": 4.5,
+                    "x": 40,
+                    "y": -15
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "d7",
+                "imageIndex": 3,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "e1",
+                "imageIndex": 4,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "e2",
+                "imageIndex": 4,
+                "zoom": {
+                    "scale": 2.2,
+                    "x": 0,
+                    "y": 12
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "e3",
+                "imageIndex": 4,
+                "zoom": {
+                    "scale": 4.5,
+                    "x": 0,
+                    "y": -10
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "rect",
+                        "x": 0.35,
+                        "y": 0.2,
+                        "width": 0.3,
+                        "height": 0.4,
+                        "opacity": 0.25
+                    }
+                ],
+                "easing": "ease-out"
+            },
+            {
+                "id": "e4",
+                "imageIndex": 4,
+                "zoom": {
+                    "scale": 5,
+                    "x": 0,
+                    "y": -30
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "e5",
+                "imageIndex": 4,
+                "zoom": {
+                    "scale": 3.5,
+                    "x": -40,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "e6",
+                "imageIndex": 4,
+                "zoom": {
+                    "scale": 3.5,
+                    "x": 40,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "e7",
+                "imageIndex": 4,
+                "zoom": {
+                    "scale": 5.5,
+                    "x": 0,
+                    "y": 25
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "rect",
+                        "x": 0.25,
+                        "y": 0.7,
+                        "width": 0.5,
+                        "height": 0.2,
+                        "opacity": 0.25,
+                        "color": "hsl(30, 50%, 50%)"
+                    }
+                ],
+                "easing": "ease-out"
+            },
+            {
+                "id": "e8",
+                "imageIndex": 4,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "f1",
+                "imageIndex": 5,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "f2",
+                "imageIndex": 5,
+                "zoom": {
+                    "scale": 2.5,
+                    "x": -30,
+                    "y": -10
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "f3",
+                "imageIndex": 5,
+                "zoom": {
+                    "scale": 4.5,
+                    "x": -40,
+                    "y": 20
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "circle",
+                        "x": 0.2,
+                        "y": 0.75,
+                        "width": 0.15,
+                        "height": 0.15,
+                        "opacity": 0.35
+                    }
+                ],
+                "easing": "ease-out"
+            },
+            {
+                "id": "f4",
+                "imageIndex": 5,
+                "zoom": {
+                    "scale": 3.5,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "circle",
+                        "x": 0.5,
+                        "y": 0.5,
+                        "width": 0.08,
+                        "height": 0.12,
+                        "opacity": 0.4
+                    }
+                ],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "f5",
+                "imageIndex": 5,
+                "zoom": {
+                    "scale": 4,
+                    "x": 35,
+                    "y": -20
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "f6",
+                "imageIndex": 5,
+                "zoom": {
+                    "scale": 1.5,
+                    "x": 0,
+                    "y": -35
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "f7",
+                "imageIndex": 5,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            }
+        ],
+        "paragraphs": [
+            {
+                "id": "ap1",
+                "stateId": "a1",
+                "text": "From a distance, the city appears whole. Terracotta rooftops stretch to the sea, domes rise above the haze, and church bells mark an hour that no longer exists.",
+                "caption": "The City at Dawn",
+                "textStyle": {
+                    "backgroundColor": "rgba(3,8,171,0.8)"
+                }
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "slug": "the-last-ancient-forest",
+        "title": "The Last Ancient Forest",
+        "subtitle": "A journey into the world's oldest living ecosystem — and the race to save it",
+        "coverImage": "/src/assets/story-cover.jpg",
+        "author": "Elena Vasquez",
+        "date": "March 2026",
+        "readTime": "12 min read",
+        "featured": false,
+        "status": "published",
+        "images": [
+            "/src/assets/story-cover.jpg",
+            "/src/assets/story-section-1.jpg",
+            "/src/assets/story-section-2.jpg",
+            "/src/assets/story-section-3.jpg",
+            "/src/assets/story-section-4.jpg",
+            "/src/assets/story-section-5.jpg"
+        ],
+        "states": [
+            {
+                "id": "st1",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": []
+            },
+            {
+                "id": "st2",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.94,
+                    "x": -1.58,
+                    "y": -24.23
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "st3",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 1.7,
+                    "x": 20.62,
+                    "y": 20.62
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "st4",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 1.83,
+                    "x": -11.34,
+                    "y": 15.56
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "circle",
+                        "x": 0.5,
+                        "y": 0.5,
+                        "width": 0.3,
+                        "height": 0.3,
+                        "opacity": 0.6
+                    }
+                ],
+                "easing": "ease-out"
+            },
+            {
+                "id": "st5",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 1.1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "st6",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 1.88,
+                    "x": 23.4,
+                    "y": 11.85
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "st7",
+                "imageIndex": 3,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "st8",
+                "imageIndex": 4,
+                "zoom": {
+                    "scale": 2.68,
+                    "x": 10.17,
+                    "y": -21.19
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "st9",
+                "imageIndex": 4,
+                "zoom": {
+                    "scale": 1.5,
+                    "x": -16.67,
+                    "y": 16.67
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "rect",
+                        "x": 0.2,
+                        "y": 0.3,
+                        "width": 0.6,
+                        "height": 0.4,
+                        "opacity": 0.4
+                    }
+                ],
+                "easing": "ease-out"
+            },
+            {
+                "id": "st10",
+                "imageIndex": 5,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "st11",
+                "imageIndex": 5,
+                "zoom": {
+                    "scale": 1.61,
+                    "x": -18.94,
+                    "y": 18.94
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            }
+        ],
+        "paragraphs": [
+            {
+                "id": "p1",
+                "stateId": "st1",
+                "text": "<b>Deep in the Pacific Northwest, a cathedral of ancient trees stands as it has for millennia — silent witnesses to the passage of time.</b>",
+                "caption": "Pacific Northwest, United States",
+                "textStyle": {
+                    "backgroundColor": "rgba(237,198,2,0.8)"
+                }
+            },
+            {
+                "id": "p2",
+                "stateId": "st2",
+                "text": "Look closely at the bark. Each fissure is a chapter, each ring a century. These giants predate the modern world by thousands of years."
+            },
+            {
+                "id": "p3",
+                "stateId": "st3",
+                "text": "The forest floor exists in perpetual twilight. Ferns unfurl in filtered light, their fronds reaching upward like green flames. The air is thick with moisture and the scent of ancient decomposition.",
+                "caption": "Less than 2% of sunlight reaches the forest floor"
+            },
+            {
+                "id": "p4",
+                "stateId": "st4",
+                "text": "At the heart of each tree, a complex network of mycorrhizal fungi connects root to root — a wood-wide web through which nutrients and chemical signals flow between organisms."
+            },
+            {
+                "id": "p5",
+                "stateId": "st5",
+                "text": "Beneath the towering canopy, a world of moss and lichen colonizes every surface. These micro-ecosystems support hundreds of species that exist nowhere else on Earth.",
+                "caption": "The understory canopy"
+            },
+            {
+                "id": "p6",
+                "stateId": "st6",
+                "text": "Scientists have discovered that the oldest trees act as \"mother trees,\" nurturing younger saplings through underground fungal networks — sharing sugars, water, and even warning signals about insect attacks."
+            },
+            {
+                "id": "p7",
+                "stateId": "st7",
+                "text": "From above, the rivers trace silver threads through an ocean of autumn color. These waterways are the forest's arteries, carrying nutrients from mountain peaks to valley floors.",
+                "caption": "Aerial view, autumn"
+            },
+            {
+                "id": "p8",
+                "stateId": "st8",
+                "text": "Standing at the boundary between wilderness and sky, one can see both the enormity of what remains and the fragility of its existence. Conservation efforts have accelerated, but the clock is ticking."
+            },
+            {
+                "id": "p9",
+                "stateId": "st9",
+                "text": "What we choose to protect today will define the world our children inherit. Every acre preserved is a library of genetic information, a carbon vault, a water purifier."
+            },
+            {
+                "id": "p10",
+                "stateId": "st10",
+                "text": "As night falls over the forest, the same stars that guided the first trees skyward continue their silent vigil. In the darkness, the forest breathes.",
+                "caption": "Milky Way above old-growth forest"
+            },
+            {
+                "id": "p11",
+                "stateId": "st11",
+                "text": "These ancient forests are more than landscapes. They are living archives, breathing cathedrals, and perhaps our best hope for understanding what it means to endure."
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "slug": "the-painting-reveals-itself",
+        "title": "The Painting Reveals Itself",
+        "subtitle": "A cinematic journey into a Baroque masterwork — guided by scroll, revealed by light",
+        "coverImage": "/src/assets/master-artwork.jpg",
+        "author": "Chronicle Editorial",
+        "date": "April 2026",
+        "readTime": "8 min read",
+        "featured": false,
+        "status": "published",
+        "images": [
+            "/src/assets/master-artwork.jpg"
+        ],
+        "states": [
+            {
+                "id": "cs1",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": []
+            },
+            {
+                "id": "cs2",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.2,
+                    "x": 5,
+                    "y": -5
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs3",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.5,
+                    "x": 8,
+                    "y": -8
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs4",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.8,
+                    "x": 2,
+                    "y": -2
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs5",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.4,
+                    "x": 0,
+                    "y": -5
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs6",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 3.2,
+                    "x": -1,
+                    "y": -10
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs7",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 3,
+                    "x": -4,
+                    "y": 3
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs8",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.5,
+                    "x": -12,
+                    "y": 2
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs9",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 3,
+                    "x": -18,
+                    "y": -3
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs10",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.8,
+                    "x": -25,
+                    "y": -5
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs11",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.5,
+                    "x": 15,
+                    "y": -3
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs12",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 3,
+                    "x": 20,
+                    "y": 10
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs13",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.8,
+                    "x": 0,
+                    "y": -2
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs14",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 4,
+                    "x": -1,
+                    "y": -12
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs15",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 4.5,
+                    "x": 1,
+                    "y": -14
+                },
+                "overlays": [
+                    {
+                        "type": "highlight",
+                        "shape": "circle",
+                        "x": 0.48,
+                        "y": 0.33,
+                        "width": 0.08,
+                        "height": 0.08,
+                        "opacity": 0.35
+                    }
+                ],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs16",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 4.2,
+                    "x": 0,
+                    "y": -13
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs17",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.5,
+                    "x": 0,
+                    "y": -3
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "cs18",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            }
+        ],
+        "paragraphs": [
+            {
+                "id": "cp1",
+                "stateId": "cs1",
+                "text": "We see the entire scene. A group of figures, arranged around a single source of light."
+            },
+            {
+                "id": "cp2",
+                "stateId": "cs2",
+                "text": "The light enters from the upper right. It cuts through the darkness like a blade."
+            },
+            {
+                "id": "cp3",
+                "stateId": "cs3",
+                "text": "Follow it downward. The beam is deliberate. The painter placed it here for a reason."
+            },
+            {
+                "id": "cp4",
+                "stateId": "cs4",
+                "text": "It falls on the central figure. He is the only one fully illuminated."
+            },
+            {
+                "id": "cp5",
+                "stateId": "cs5",
+                "text": "His body is turned toward us. Draped in white cloth, exposed to the light. Every figure around him reacts to his presence."
+            },
+            {
+                "id": "cp6",
+                "stateId": "cs6",
+                "text": "His face. Half in light, half in shadow. This is the dividing line of the entire painting."
+            },
+            {
+                "id": "cp7",
+                "stateId": "cs7",
+                "text": "Now look at his hand. It reaches outward, palm open. The gesture is not aggressive — it is an offering."
+            },
+            {
+                "id": "cp8",
+                "stateId": "cs8",
+                "text": "Follow where the hand points. To the left, a figure in red leans forward."
+            },
+            {
+                "id": "cp9",
+                "stateId": "cs9",
+                "text": "The red-robed figure. His posture suggests urgency. He is responding to something he has just witnessed."
+            },
+            {
+                "id": "cp10",
+                "stateId": "cs10",
+                "text": "Behind him, at the far edge, others watch. Their faces are barely visible. They are witnesses, not participants."
+            },
+            {
+                "id": "cp11",
+                "stateId": "cs11",
+                "text": "On the opposite side, another group. Their bodies angle inward, drawn toward the center."
+            },
+            {
+                "id": "cp12",
+                "stateId": "cs12",
+                "text": "At the bottom right, a figure is collapsed. Overcome. The drama has already reached him."
+            },
+            {
+                "id": "cp13",
+                "stateId": "cs13",
+                "text": "Return to the center. Everything in this painting radiates from this single figure."
+            },
+            {
+                "id": "cp14",
+                "stateId": "cs14",
+                "text": "His face again. Closer now. The expression is calm despite the surrounding tension."
+            },
+            {
+                "id": "cp15",
+                "stateId": "cs15",
+                "text": "Here, at the exact boundary where light meets shadow, the painter has placed the entire meaning of the work."
+            },
+            {
+                "id": "cp16",
+                "stateId": "cs16",
+                "text": "This is the moment the painting holds. Frozen. Permanent. A single breath caught in oil and pigment."
+            },
+            {
+                "id": "cp17",
+                "stateId": "cs17",
+                "text": "We begin to step back. The individual figures recede into the composition."
+            },
+            {
+                "id": "cp18",
+                "stateId": "cs18",
+                "text": "And once again, we see the whole. But now we understand what lives inside it."
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "slug": "silent-language-of-light",
+        "title": "The Silent Language of Light",
+        "subtitle": "Inside a cathedral where every beam tells a story written eight centuries ago",
+        "coverImage": "/src/assets/story-cathedral-light.jpg",
+        "author": "Elena Vasquez",
+        "date": "March 2026",
+        "readTime": "12 min read",
+        "status": "published",
+        "images": [
+            "/src/assets/story-cathedral-light.jpg",
+            "/src/assets/atlas-cathedral.jpg"
+        ],
+        "states": [
+            {
+                "id": "sl1",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": []
+            },
+            {
+                "id": "sl2",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.2,
+                    "x": 0,
+                    "y": -25
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "sl3",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 4,
+                    "x": -15,
+                    "y": -35
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "sl4",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 3.2,
+                    "x": 25,
+                    "y": -20
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "sl5",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 5,
+                    "x": 10,
+                    "y": 10
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "sl6",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2,
+                    "x": -30,
+                    "y": 15
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "sl7",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "sl8",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "sl9",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 2.5,
+                    "x": -20,
+                    "y": -30
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "sl10",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 4.5,
+                    "x": 0,
+                    "y": -40
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "sl11",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 3,
+                    "x": 30,
+                    "y": 10
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "sl12",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            }
+        ],
+        "paragraphs": [
+            {
+                "id": "slp1",
+                "stateId": "sl1",
+                "text": "You step inside and the world falls silent. The noise of the street, the wind, the traffic — all of it stays at the threshold."
+            },
+            {
+                "id": "slp2",
+                "stateId": "sl2",
+                "text": "Your eyes are drawn upward. The vaulted ceiling soars above, ribs of stone converging at a point so high it seems to dissolve into shadow."
+            },
+            {
+                "id": "slp3",
+                "stateId": "sl3",
+                "text": "And then — light. Not the pale wash of a bulb, but something vivid. Colored. Alive. It pours through the rose window like liquid fire."
+            },
+            {
+                "id": "slp4",
+                "stateId": "sl4",
+                "text": "The glass was placed here with mathematical precision. At this hour, on this day, the beams reach the floor tiles exactly where the builders intended."
+            },
+            {
+                "id": "slp5",
+                "stateId": "sl5",
+                "text": "Look closer. Each panel tells a chapter. Saints and sinners, kings and shepherds. Eight centuries of pigment fused into glass by hands long turned to dust."
+            },
+            {
+                "id": "slp6",
+                "stateId": "sl6",
+                "text": "The light shifts. A cloud passes outside and the interior breathes — colors dimming, then returning brighter than before."
+            },
+            {
+                "id": "slp7",
+                "stateId": "sl7",
+                "text": "Step back. See the full nave. This is architecture as argument: that the divine is not somewhere else, but here, in the geometry of stone and light."
+            },
+            {
+                "id": "slp8",
+                "stateId": "sl8",
+                "text": "A second cathedral, a thousand miles away. Built in the same century, by builders who never met, following the same invisible logic."
+            },
+            {
+                "id": "slp9",
+                "stateId": "sl9",
+                "text": "The columns here are thicker, the arches more muscular. This is not grace but strength. A fortress that prays."
+            },
+            {
+                "id": "slp10",
+                "stateId": "sl10",
+                "text": "At the apex, a single oculus. The builders left this opening as a lens. Through it, the sun writes the hour on the floor."
+            },
+            {
+                "id": "slp11",
+                "stateId": "sl11",
+                "text": "In the side chapel, candles burn before carved figures. The wax has pooled into shapes that mirror the stonework above."
+            },
+            {
+                "id": "slp12",
+                "stateId": "sl12",
+                "text": "You leave the way you entered. But the silence follows you now. It has attached itself to something inside you, and it will not let go."
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "slug": "fragments-of-empire",
+        "title": "Fragments of Empire",
+        "subtitle": "An archaeological dig uncovers the last temple of a civilization that vanished overnight",
+        "coverImage": "/src/assets/story-desert-ruins.jpg",
+        "author": "Khalid Nasser",
+        "date": "March 2026",
+        "readTime": "14 min read",
+        "status": "published",
+        "images": [
+            "/src/assets/story-desert-ruins.jpg",
+            "/src/assets/atlas-ruins.jpg",
+            "/src/assets/atlas-panorama.jpg"
+        ],
+        "states": [
+            {
+                "id": "fe1",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": []
+            },
+            {
+                "id": "fe2",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.6,
+                    "x": 0,
+                    "y": 15
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "fe3",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 3.5,
+                    "x": -10,
+                    "y": 20
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "fe4",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 4.8,
+                    "x": 15,
+                    "y": 10
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "fe5",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2,
+                    "x": 30,
+                    "y": -15
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "fe6",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "fe7",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "fe8",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 2.8,
+                    "x": -25,
+                    "y": -10
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "fe9",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 5,
+                    "x": -35,
+                    "y": 20
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "fe10",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 3,
+                    "x": 20,
+                    "y": -25
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "fe11",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "fe12",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "fe13",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 2.5,
+                    "x": 15,
+                    "y": 10
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "fe14",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 4,
+                    "x": -20,
+                    "y": -15
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "fe15",
+                "imageIndex": 2,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            }
+        ],
+        "paragraphs": [
+            {
+                "id": "fep1",
+                "stateId": "fe1",
+                "text": "From the air it looks like nothing. A smudge of geometry in an ocean of sand. But geometry does not occur naturally in deserts."
+            },
+            {
+                "id": "fep2",
+                "stateId": "fe2",
+                "text": "We descend. The shadows sharpen. What seemed like erosion reveals itself as intention — walls, doorways, the skeleton of a building that once held a roof."
+            },
+            {
+                "id": "fep3",
+                "stateId": "fe3",
+                "text": "The temple entrance faces east. Not by accident. The builders aligned it to catch the first light of the equinox, a door that opened once a year to the sun."
+            },
+            {
+                "id": "fep4",
+                "stateId": "fe4",
+                "text": "Carvings in the lintel stone. Worn by wind but still legible: figures carrying vessels, a procession frozen in sandstone for three thousand years."
+            },
+            {
+                "id": "fep5",
+                "stateId": "fe5",
+                "text": "Beyond the temple, the dunes have swallowed everything. Streets, houses, granaries — all buried under meters of amber sand."
+            },
+            {
+                "id": "fep6",
+                "stateId": "fe6",
+                "text": "We pull back. From here the temple is a footnote. The desert has reclaimed its territory and the temple exists now only as a rumor on the surface."
+            },
+            {
+                "id": "fep7",
+                "stateId": "fe7",
+                "text": "Fifty kilometers south, a second site. This one was found by satellite — thermal imaging revealed walls that the eye could never see."
+            },
+            {
+                "id": "fep8",
+                "stateId": "fe8",
+                "text": "The excavation has been meticulous. Brush by brush, they have peeled back centuries. What emerged was not a temple but a palace."
+            },
+            {
+                "id": "fep9",
+                "stateId": "fe9",
+                "text": "In the inner chamber, pottery shards. Hundreds of them. Each one painted with a pigment derived from crushed lapis lazuli — a material that had to travel two thousand miles to reach this room."
+            },
+            {
+                "id": "fep10",
+                "stateId": "fe10",
+                "text": "The question that haunts every archaeologist here: what happened? No signs of war. No evidence of famine. The city was simply abandoned, as if its people walked away in a single afternoon."
+            },
+            {
+                "id": "fep11",
+                "stateId": "fe11",
+                "text": "We step back from the dig site. The tools are covered for the night. Tomorrow they will continue, one centimeter at a time."
+            },
+            {
+                "id": "fep12",
+                "stateId": "fe12",
+                "text": "From the ridge, you can see both sites. Two points of stone in a landscape that has erased everything between them."
+            },
+            {
+                "id": "fep13",
+                "stateId": "fe13",
+                "text": "The team's geologist believes there was a river here once. A wide, slow river that fed the fields and filled the cisterns. When it shifted course, the empire lost its spine."
+            },
+            {
+                "id": "fep14",
+                "stateId": "fe14",
+                "text": "In the dust, a child's toy. A clay animal, roughly shaped, with one leg missing. Someone made this for someone they loved. That is the only certainty we have."
+            },
+            {
+                "id": "fep15",
+                "stateId": "fe15",
+                "text": "The wind picks up. Sand begins to reclaim the day's work. In a thousand years, this too will be a layer waiting to be found."
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "slug": "the-last-cartographers",
+        "title": "The Last Cartographers",
+        "subtitle": "In an age of satellites, a handful of people still draw the world by hand",
+        "coverImage": "/src/assets/story-cartographer.jpg",
+        "author": "James Whitfield",
+        "date": "February 2026",
+        "readTime": "10 min read",
+        "status": "published",
+        "images": [
+            "/src/assets/story-cartographer.jpg",
+            "/src/assets/master-artwork.jpg"
+        ],
+        "states": [
+            {
+                "id": "lc1",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": []
+            },
+            {
+                "id": "lc2",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2,
+                    "x": 0,
+                    "y": 5
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "lc3",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 2.5,
+                    "x": -8.46,
+                    "y": 30
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "lc4",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 3.5,
+                    "x": 29.44,
+                    "y": -12.49
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "lc5",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 3.27,
+                    "x": 1.27,
+                    "y": -2.56
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "lc6",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.9,
+                    "x": -23.74,
+                    "y": -23.74
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "lc7",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "lc8",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "lc9",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 1.38,
+                    "x": -13.83,
+                    "y": 12.33
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "lc10",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 1.66,
+                    "x": 19.83,
+                    "y": 2.25
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            },
+            {
+                "id": "lc11",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 3,
+                    "x": 10.56,
+                    "y": -10.69
+                },
+                "overlays": [],
+                "easing": "ease-in-out"
+            },
+            {
+                "id": "lc12",
+                "imageIndex": 1,
+                "zoom": {
+                    "scale": 1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": [],
+                "easing": "ease-out"
+            }
+        ],
+        "paragraphs": [
+            {
+                "id": "lcp1",
+                "stateId": "lc1",
+                "text": "The room smells of ink and beeswax. Maps cover every surface — pinned to walls, rolled in tubes, stacked in drawers that haven't closed properly in decades.",
+                "textStyle": {
+                    "backgroundColor": "rgba(224,11,11,1)"
+                }
+            },
+            {
+                "id": "lcp2",
+                "stateId": "lc2",
+                "text": "His hands move with a steadiness that contradicts their age. The pen traces a coastline he has never visited but knows by heart — every inlet, every headland."
+            },
+            {
+                "id": "lcp3",
+                "stateId": "lc3",
+                "text": "The compass. Brass, German-made, older than its owner. He bought it at an estate sale forty years ago and has not used another instrument since.",
+                "textStyle": {
+                    "backgroundColor": "rgba(32,1,188,0.25)"
+                }
+            },
+            {
+                "id": "lcp4",
+                "stateId": "lc4",
+                "text": "On the map beneath his hands, a continent takes shape. Not the clean vectors of a GPS trace, but something rougher, warmer — a landscape filtered through human attention."
+            },
+            {
+                "id": "lcp5",
+                "stateId": "lc5",
+                "text": "In the margins, he writes notes. Wind patterns. Tidal schedules. The name of a fisherman who corrected his rendering of a bay. The map becomes a journal."
+            },
+            {
+                "id": "lcp6",
+                "stateId": "lc6",
+                "text": "A candle flickers at the edge of the desk. He prefers it to electric light. Says the color temperature is closer to what the old navigators used. Perhaps he is right."
+            },
+            {
+                "id": "lcp7",
+                "stateId": "lc7",
+                "text": "He leans back. The full map is visible now. It is beautiful — not despite its imperfections but because of them. Every wobble in a line records a breath, a hesitation, a decision."
+            },
+            {
+                "id": "lcp8",
+                "stateId": "lc8",
+                "text": "Across the hall, his archive. Thousands of hand-drawn maps spanning forty years of work. Each one is a record of a place at a moment — a portrait, not a photograph."
+            },
+            {
+                "id": "lcp9",
+                "stateId": "lc9",
+                "text": "He pulls one from the shelf. A harbor in Norway, drawn in 1987. The fishing boats are gone now, replaced by oil platforms. But on this paper, they are still there."
+            },
+            {
+                "id": "lcp10",
+                "stateId": "lc10",
+                "text": "The detail is astonishing. Individual roof tiles. The shadow of a church spire at four in the afternoon. He drew it from a hilltop over three days, sleeping in his car."
+            },
+            {
+                "id": "lcp11",
+                "stateId": "lc11",
+                "text": "\"A satellite sees everything,\" he says. \"But it understands nothing. A map drawn by hand is an act of interpretation. It tells you what matters.\""
+            },
+            {
+                "id": "lcp12",
+                "stateId": "lc12",
+                "text": "He returns the map to its place. There are fewer of them now, the people who do this. Soon there will be none. And the world will be perfectly mapped and entirely undescribed."
+            }
+        ]
+    },
+    {
+        "id": "ccc22353-11b6-4a6c-ac85-cb29d4388d2b",
+        "slug": "story-1779448847075",
+        "title": "The 3D Art Design",
+        "subtitle": "",
+        "coverImage": "/src/assets/1779448850967-alex-nghiem-39J8uC7y4iQ-unsplash.jpg",
+        "author": "",
+        "date": "May 2026",
+        "readTime": "5 min read",
+        "status": "published",
+        "images": [
+            "/src/assets/1779448855713-alex-nghiem-39J8uC7y4iQ-unsplash.jpg"
+        ],
+        "states": [
+            {
+                "id": "38b54417-a069-4711-a0c5-20aa4af7d894",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 1.35,
+                    "x": -4.93,
+                    "y": 12.72
+                },
+                "overlays": []
+            }
+        ],
+        "paragraphs": [
+            {
+                "id": "1480daea-76d7-4235-bb60-a2ead978e643",
+                "text": "The Art of Blance",
+                "stateId": "38b54417-a069-4711-a0c5-20aa4af7d894"
+            }
+        ]
+    },
+    {
+        "id": "3cd47d66-f42b-4ab1-b894-6efb85f1d080",
+        "slug": "story-1779448934202",
+        "title": "New Story",
+        "subtitle": "",
+        "coverImage": "/src/assets/1779448939010-george-pagan-iii-B8OXdm8Ic98-unsplash.jpg",
+        "author": "",
+        "date": "May 2026",
+        "readTime": "5 min read",
+        "status": "published",
+        "images": [
+            "/src/assets/1779448947169-george-pagan-iii-B8OXdm8Ic98-unsplash.jpg"
+        ],
+        "states": [
+            {
+                "id": "e4b502c7-d6ad-45e3-8f6c-45ec28f521e1",
+                "imageIndex": 0,
+                "zoom": {
+                    "scale": 3.1,
+                    "x": 0,
+                    "y": 0
+                },
+                "overlays": []
+            }
+        ],
+        "paragraphs": [
+            {
+                "id": "e241f255-7675-46fc-9795-57133d352535",
+                "text": "The book library",
+                "stateId": "e4b502c7-d6ad-45e3-8f6c-45ec28f521e1"
+            }
+        ]
+    }
+]
