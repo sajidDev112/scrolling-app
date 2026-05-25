@@ -542,7 +542,7 @@ export function StoryViewer({ story }: Props) {
         backgroundColor: getBackgroundColor(titleTextStyle.backgroundColor),
         borderRadius: `${titleTextStyle.borderRadius ?? 8}px`,
         padding: `${titleTextStyle.padding ?? 24}px`,
-        maxWidth: 'min(100%, 960px)',
+        maxWidth: 'min(100%, 880px)',
       }
     : undefined;
 
@@ -620,6 +620,7 @@ export function StoryViewer({ story }: Props) {
           className="absolute inset-0 flex flex-col items-center justify-center text-center px-8 pointer-events-none transition-opacity duration-150"
           style={{
             opacity: Math.max(0, 1 - globalProgress * 14),
+            paddingLeft: '55px',
           }}
         >
           <div className="rounded-2xl" style={titleBoxStyle}>
