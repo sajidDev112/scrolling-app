@@ -60,6 +60,11 @@ function easeOutCubic(value: number): number {
   return 1 - Math.pow(1 - value, 3);
 }
 
+function getBackgroundColor(backgroundColor?: string): string {
+  const value = backgroundColor?.trim();
+  return value ? value : 'rgba(0,0,0,0.8)';
+}
+
 export function StoryViewer({ story }: Props) {
   const navigate = useNavigate();
   const containerRef = useRef<HTMLDivElement>(null);
@@ -531,6 +536,16 @@ export function StoryViewer({ story }: Props) {
     }, BACK_BUTTON_PRESS_FEEDBACK_MS);
   }, [navigate]);
 
+  const titleTextStyle = story.titleTextStyle ?? {};
+  const titleBoxStyle = story.titleTextStyle
+    ? {
+        backgroundColor: getBackgroundColor(titleTextStyle.backgroundColor),
+        borderRadius: `${titleTextStyle.borderRadius ?? 8}px`,
+        padding: `${titleTextStyle.padding ?? 24}px`,
+        maxWidth: 'min(100%, 960px)',
+      }
+    : undefined;
+
   const activeCaption =
     timelineFrame.activeParagraphIndex === null
       ? undefined
@@ -607,18 +622,22 @@ export function StoryViewer({ story }: Props) {
             opacity: Math.max(0, 1 - globalProgress * 14),
           }}
         >
-          <h1
-            className="font-serif text-4xl md:text-6xl lg:text-7xl font-bold leading-tight mb-4"
-            style={{ color: 'hsl(45, 20%, 97%)', textShadow: '0 2px 20px hsl(220 15% 10% / 0.6)' }}
-          >
-            {story.title}
-          </h1>
-          <p
-            className="font-sans text-lg md:text-xl max-w-2xl"
-            style={{ color: 'hsl(45, 10%, 75%)' }}
-          >
-            {story.subtitle}
-          </p>
+          <div className="rounded-2xl" style={titleBoxStyle}>
+            <h1
+              className="font-serif text-4xl md:text-6xl lg:text-7xl font-bold leading-tight mb-4"
+              style={{ color: 'hsl(45, 20%, 97%)', textShadow: '0 2px 20px hsl(220 15% 10% / 0.6)' }}
+            >
+              {story.title}
+            </h1>
+            {story.subtitle ? (
+              <p
+                className="font-sans text-lg md:text-xl max-w-2xl"
+                style={{ color: 'hsl(45, 10%, 75%)' }}
+              >
+                {story.subtitle}
+              </p>
+            ) : null}
+          </div>
           <div
             className="mt-6 font-sans text-sm"
             style={{ color: 'hsl(45, 10%, 60%)' }}

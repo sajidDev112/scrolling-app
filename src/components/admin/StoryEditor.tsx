@@ -290,6 +290,10 @@ export function StoryEditor({ story, onClose }: { story: Story; onClose: () => v
     onClose();
   };
 
+  const titleTextStyle = data.titleTextStyle ?? {};
+  const updateTitleTextStyle = (patch: Partial<ParagraphTextStyle>) =>
+    setData({ ...data, titleTextStyle: { ...titleTextStyle, ...patch } });
+
   const addState = () => {
     const newState: VisualState = {
       id: uuid(),
@@ -366,6 +370,62 @@ export function StoryEditor({ story, onClose }: { story: Story; onClose: () => v
       <div className="mb-4">
         <label className="text-xs font-sans text-muted-foreground mb-1 block">Subtitle</label>
         <input value={data.subtitle} onChange={(e) => setData({ ...data, subtitle: e.target.value })} className="w-full px-3 py-2 border border-input rounded-md text-sm bg-background font-sans" />
+      </div>
+      <div className="border border-border rounded-md p-4 mb-4">
+        <p className="text-[11px] font-semibold font-sans text-foreground uppercase tracking-wider mb-3">Title banner style</p>
+        <div className="grid grid-cols-3 gap-3">
+          <div>
+            <label className="text-[10px] text-muted-foreground font-sans block mb-1">Box Color</label>
+            <input
+              type="color"
+              value={toHex(
+                parseColor(getBackgroundColor(titleTextStyle.backgroundColor)).r,
+                parseColor(getBackgroundColor(titleTextStyle.backgroundColor)).g,
+                parseColor(getBackgroundColor(titleTextStyle.backgroundColor)).b,
+              )}
+              onChange={(e) => {
+                const { a } = parseColor(getBackgroundColor(titleTextStyle.backgroundColor));
+                const { r, g, b } = parseColor(e.target.value);
+                updateTitleTextStyle({ backgroundColor: `rgba(${r},${g},${b},${a})` });
+              }}
+              className="w-full h-8 rounded border border-input cursor-pointer bg-background p-0.5"
+            />
+          </div>
+          <div>
+            <label className="text-[10px] text-muted-foreground font-sans block mb-1">
+              Opacity — {Math.round(parseColor(getBackgroundColor(titleTextStyle.backgroundColor)).a * 100)}%
+            </label>
+            <input
+              type="range" min={0} max={1} step={0.05}
+              value={parseColor(getBackgroundColor(titleTextStyle.backgroundColor)).a}
+              onChange={(e) => {
+                const { r, g, b } = parseColor(getBackgroundColor(titleTextStyle.backgroundColor));
+                updateTitleTextStyle({ backgroundColor: `rgba(${r},${g},${b},${e.target.value})` });
+              }}
+              className="w-full mt-2 accent-accent"
+            />
+          </div>
+          <div>
+            <label className="text-[10px] text-muted-foreground font-sans block mb-1">Radius</label>
+            <select
+              value={titleTextStyle.borderRadius ?? 8}
+              onChange={(e) => updateTitleTextStyle({ borderRadius: parseInt(e.target.value) })}
+              className="w-full px-2 py-1 border border-input rounded text-xs bg-background font-sans"
+            >
+              {BORDER_RADII.map((r) => <option key={r} value={r}>{r}px</option>)}
+            </select>
+          </div>
+          <div className="col-span-3">
+            <label className="text-[10px] text-muted-foreground font-sans block mb-1">Padding</label>
+            <select
+              value={titleTextStyle.padding ?? 16}
+              onChange={(e) => updateTitleTextStyle({ padding: parseInt(e.target.value) })}
+              className="w-full px-2 py-1 border border-input rounded text-xs bg-background font-sans"
+            >
+              {PADDINGS.map((p) => <option key={p} value={p}>{p}px</option>)}
+            </select>
+          </div>
+        </div>
       </div>
       <div className="grid grid-cols-4 gap-4 mb-4">
         <div>

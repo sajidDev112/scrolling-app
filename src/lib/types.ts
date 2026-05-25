@@ -59,6 +59,8 @@ export interface Story {
   readTime: string;
   featured?: boolean;
   status: 'draft' | 'published';
+  /** Optional style for the title/subtitle banner on the intro page */
+  titleTextStyle?: ParagraphTextStyle;
   /** High-resolution images used in the visual stage */
   images: string[];
   /** Ordered visual states driven by scroll */
