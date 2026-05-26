@@ -185,9 +185,9 @@ const Index = () => {
 
       {/* Header */}
       <header className="shrink-0">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-2 flex flex-col items-center text-center gap-4">
-          <div className="mt-12 flex justify-center">
-            <img src={mapLogo} alt="MAP Logo" className="w-56 md:w-72 h-auto object-contain" />
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-2 flex flex-col items-center text-center gap-3">
+          <div className="mt-14 flex justify-center">
+            <img src={mapLogo} alt="MAP Logo" className="w-24 md:w-44 h-auto object-contain" />
           </div>
 
           <div className="flex justify-center">
