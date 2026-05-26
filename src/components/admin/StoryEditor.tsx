@@ -15,6 +15,7 @@ import {
   Separator,
 } from 'react-simple-wysiwyg';
 import { storyStore } from '@/lib/story-store';
+import { uploadImage } from '@/firebase/firebase';
 import type { Story, VisualState, StoryParagraph, ParagraphTextStyle } from '@/lib/types';
 import { Link } from 'react-router-dom';
 import { ArrowLeft, Plus, Trash2, Eye, ChevronDown, ChevronUp } from 'lucide-react';
@@ -257,30 +258,6 @@ function ParagraphEditor({
   );
 }
 
-async function uploadImage(file: File): Promise<string> {
-  return new Promise<string>((resolve) => {
-    const reader = new FileReader();
-    reader.onload = async () => {
-      const dataURL = reader.result as string;
-      try {
-        const res = await fetch('/api/upload', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ name: file.name, data: dataURL }),
-        });
-        if (res.ok) {
-          const json = await res.json();
-          resolve(json.url);
-          return;
-        }
-      } catch { /* fall through */ }
-      resolve(dataURL); // fallback: store as base64
-    };
-    reader.onerror = () => resolve('');
-    reader.readAsDataURL(file);
-  });
-}
-
 export function StoryEditor({ story, onClose }: { story: Story; onClose: () => void }) {
   const [data, setData] = useState<Story>(JSON.parse(JSON.stringify(story)));
   const [activeStateIdx, setActiveStateIdx] = useState(0);
@@ -446,7 +423,7 @@ export function StoryEditor({ story, onClose }: { story: Story; onClose: () => v
               type="file" accept="image/*" className="sr-only"
               onChange={async (e) => {
                 const file = e.target.files?.[0];
-                if (file) setData({ ...data, coverImage: await uploadImage(file) });
+                if (file) setData({ ...data, coverImage: await uploadImage(file, data.id) });
               }}
             />
           </label>
@@ -470,7 +447,7 @@ export function StoryEditor({ story, onClose }: { story: Story; onClose: () => v
               type="file" accept="image/*" multiple className="sr-only"
               onChange={async (e) => {
                 const files = Array.from(e.target.files ?? []);
-                const urls = await Promise.all(files.map(uploadImage));
+                const urls = await Promise.all(files.map((file) => uploadImage(file, data.id)));
                 setData(prev => {
                   const startIdx = prev.images.length;
                   const newStates: VisualState[] = urls.map((_, i) => ({

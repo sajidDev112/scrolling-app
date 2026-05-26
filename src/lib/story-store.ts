@@ -1,43 +1,46 @@
 import { demoStories } from './demo-data';
 import type { Story } from './types';
 import { uuid } from './utils';
+import { collection, getDocs, setDoc, doc } from 'firebase/firestore';
+import { database, deleteStory } from '@/firebase/firebase';
 
-// ── persist to public/data.json via Vite middleware ──────────────────────────
-async function persistToFile(data: Story[]) {
-  try {
-    await fetch('/api/save-data', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(data),
-    });
-  } catch {
-    // dev server not available (e.g. production static build) — ignore
-  }
-}
+const storiesCollection = collection(database, 'stories');
 
-// ── in-memory store ───────────────────────────────────────────────────────────
-let stories: Story[] = [...demoStories]; // shown instantly while data.json loads
+let stories: Story[] = [...demoStories];
 let listeners: (() => void)[] = [];
 let hasLoaded = false;
 
 function notify() {
-  listeners.forEach((l) => l());
+  listeners.forEach((listener) => listener());
 }
 
-// Load from /data.json on startup — replaces demo data if real stories exist
-fetch(`/data.json?t=${Date.now()}`)
-  .then((r) => r.json())
-  .then((parsed: Story[]) => {
-    if (Array.isArray(parsed) && parsed.length > 0) {
-      stories = parsed;
+async function loadStoriesFromFirebase() {
+  try {
+    const snapshot = await getDocs(storiesCollection);
+    const loaded = snapshot.docs
+      .map((docSnap) => docSnap.data() as Story)
+      .filter((story): story is Story => Boolean(story && story.id && story.slug));
+
+    if (loaded.length > 0) {
+      stories = loaded;
     }
-    hasLoaded = true;
-    notify();
-  })
-  .catch(() => {
-    hasLoaded = true;
-    notify();
-  });
+  } catch (error) {
+    console.error('Failed to load stories from Firestore:', error);
+  }
+
+  hasLoaded = true;
+  notify();
+}
+
+loadStoriesFromFirebase();
+
+async function persistStoryToFirebase(story: Story) {
+  try {
+    await setDoc(doc(storiesCollection, story.id), story);
+  } catch (error) {
+    console.error('Failed to save story to Firestore:', error);
+  }
+}
 
 export const storyStore = {
   subscribe(listener: () => void) {
@@ -52,15 +55,15 @@ export const storyStore = {
   },
 
   getPublished(): Story[] {
-    return stories.filter((s) => s.status === 'published');
+    return stories.filter((story) => story.status === 'published');
   },
 
   getBySlug(slug: string): Story | undefined {
-    return stories.find((s) => s.slug === slug);
+    return stories.find((story) => story.slug === slug);
   },
 
   getById(id: string): Story | undefined {
-    return stories.find((s) => s.id === id);
+    return stories.find((story) => story.id === id);
   },
 
   hasLoaded(): boolean {
@@ -68,44 +71,45 @@ export const storyStore = {
   },
 
   save(story: Story) {
-    const idx = stories.findIndex((s) => s.id === story.id);
+    const idx = stories.findIndex((item) => item.id === story.id);
     if (idx >= 0) {
-      stories = stories.map((s) => (s.id === story.id ? story : s));
+      stories = stories.map((item) => (item.id === story.id ? story : item));
     } else {
       stories = [...stories, story];
     }
     hasLoaded = true;
-    persistToFile(stories);
     notify();
+    persistStoryToFirebase(story);
   },
 
   delete(id: string) {
-    stories = stories.filter((s) => s.id !== id);
-    persistToFile(stories);
+    stories = stories.filter((story) => story.id !== id);
     notify();
+    deleteStory(id);
   },
 
   duplicate(id: string) {
-    const story = stories.find((s) => s.id === id);
+    const story = stories.find((item) => item.id === id);
     if (!story) return;
+
     const newStory: Story = {
       ...story,
       id: uuid(),
-      slug: story.slug + '-copy',
-      title: story.title + ' (Copy)',
+      slug: `${story.slug}-copy`,
+      title: `${story.title} (Copy)`,
       status: 'draft',
-      states: story.states.map((s) => ({ ...s, id: uuid() })),
-      paragraphs: story.paragraphs.map((p) => ({ ...p, id: uuid() })),
+      states: story.states.map((state) => ({ ...state, id: uuid() })),
+      paragraphs: story.paragraphs.map((paragraph) => ({ ...paragraph, id: uuid() })),
     };
     stories = [...stories, newStory];
-    persistToFile(stories);
     notify();
+    persistStoryToFirebase(newStory);
   },
 
   reset() {
     stories = [...demoStories];
     hasLoaded = true;
-    persistToFile(stories);
     notify();
+    stories.forEach((story) => persistStoryToFirebase(story));
   },
 };
